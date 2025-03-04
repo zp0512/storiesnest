@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Stories Nest',
   description: 'Preserve your loved ones\' stories forever through guided video interviews and secure storage.',
 };
